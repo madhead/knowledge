@@ -2,6 +2,7 @@
 
 ## Links
 
+<<<<<<< HEAD
 - [ShapeWays](https://www.shapeways.com/) - Upload 3D model, choose materials and get the thing.
 - [libfive](https://github.com/libfive/libfive) - Infrastructure for solid modeling. ([Web](https://libfive.com/))
 - [Formlabs](https://formlabs.com/) - Powerful, affordable 3D printers for professionals.
@@ -9,6 +10,8 @@
 - [Origin](https://www.origin.io) - Manufacturing-grade printer that enables additive mass production of end-use parts.
 - [Klipper](https://github.com/Klipper3d/klipper/) - 3D-printer firmware. It combines the power of a general purpose computer with one or more micro-controllers. ([Docs](https://www.klipper3d.org/)) ([HN](https://news.ycombinator.com/item?id=32327233))
 - [Pepr3D](https://github.com/tomasiser/pepr3d) - Intuitive, free, and open-source 3D painting tool for coloring models intended for colorful 3D printing.
+=======
+>>>>>>> 6f45eb1d94 (Familiarized)
 - [A Tale of Two 3D Printers (2020)](https://blog.jessfraz.com/post/a-tale-of-two-3d-printers/)
 - [Voron 2 CoreXY 3D Printer design](https://github.com/VoronDesign/Voron-2)
 - [VORON Design](http://vorondesign.com/) - No-compromise 3D printer. ([Docs](https://docs.vorondesign.com/)) ([Docs Code](https://github.com/VoronDesign/Voron-Documentation))
@@ -17,7 +20,10 @@
 - [PrusaSlicer](https://github.com/prusa3d/PrusaSlicer) - Takes 3D models (STL, OBJ, AMF) and converts them into G-code instructions for FFF printers or PNG layers for mSLA 3D printers.
 - [SuperSlicer](https://github.com/supermerill/SuperSlicer) - G-code generator for 3D printers (Prusa, Voron, Creality, etc.).
 - [3D printing boats is becoming standard practice (2020)](https://www.3dprintingmedia.network/3d-printing-boats-is-becoming-standard-practice/) ([HN](https://news.ycombinator.com/item?id=25492406))
+<<<<<<< HEAD
 - [OctoPrint](https://octoprint.org/) - Snappy web interface for your 3D printer. ([Code](https://github.com/OctoPrint/OctoPrint)) ([HN](https://news.ycombinator.com/item?id=32455408))
+=======
+>>>>>>> 6f45eb1d94 (Familiarized)
 - [Multi-metal 4D printing with a desktop electrochemical 3D printer (2019)](https://www.nature.com/articles/s41598-019-40774-5)
 - [printinator](https://github.com/jessfraz/printinator) - macOS menu bar for 3D printers.
 - [Zine Machine](https://hibred.pmvabf.org/zine-machine) - Compact 3D-printed block printing press. ([HN](https://news.ycombinator.com/item?id=26270251))
